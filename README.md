@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FShrutithorle%2FShrutithorle&psig=AOvVaw2y0BUtANOyjBTvxiCvPFZk&ust=1707900651876000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDAufb3p4QDFQAAAAAdAAAAABAW" alt="Alt Text">
-</p>  
-
 ## hi, i'm amna! 🙋‍♀️
 *data science , ai , ml intern*
 ## little more about me
