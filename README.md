@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="290" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+[![Banner](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://github.com/AMNA-KN)
 
 ## Hi, I'm Amna! 🙋‍♀️
 *Data Science , AI , ML Intern*
