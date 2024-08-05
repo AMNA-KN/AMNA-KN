@@ -5,10 +5,11 @@
 
 ### little more about me
 
-- 👩‍💻 Currently doing internship in Data Science under Luminar Technolab
+- 👩‍💻 AI ML internship under Neuroburst Technologies
+- 👩‍💻 Data Science internship under Luminar Technolab
 - 👩‍🎓 Studied Bsc Computer Science at Mahatma Gandhi University, Kerala, India
 - 💻 Enthusiastic about data science, machine learning, natural language processing, and deep learning
-- 📊 Experience in working with Python, SQL, TensorFlow, PyTorch, Scikit-learn, NLTK, and other data science tools
+- 📊 Experience in working with Python, SQL, TensorFlow, Mediapipe, OpenCV, Scikit-learn, NLTK, and other data science tools
 - 🌱 I'm always eager to learn new things and explore new domains
 - 📫 You can reach me at [my LinkedIn](https://www.linkedin.com/in/amna-k-n-a27321269)
 
